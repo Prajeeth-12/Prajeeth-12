@@ -52,7 +52,7 @@
 name: Prajeeth H
 current_education: B.Tech in Computer Science & Engineering (AI & ML)
 institution: St Joseph's College of Engineering, India
-coding_focus: [Data Structures & Algorithms, Competitive Programming, AI/ML Solutions]
+coding_focus: [Data Structures & Algorithms, Competitive Programming, AI/ML Systems]
 highlights: 1,295+ Questions Solved | 370+ Active Days | 267 Days Max Streak
 status: Exploring the limits of Artificial Intelligence & building scalable tech
 ```
@@ -61,7 +61,58 @@ status: Exploring the limits of Artificial Intelligence & building scalable tech
 - 💡 Deeply passionate about **Data Structures & Algorithms (DSA)**, **Competitive Programming**, and **Machine Learning**.
 - 🏆 Solved **1,295+ problems** across major competitive coding platforms.
 - 🌟 **2★ Coder on CodeChef** (Max Rating: 1562) | **CodeStudio Specialist** (Rating: 1773) | **Codeforces** (Max: 1385).
-- 🚀 Always open to collaborating on open-source projects, machine learning workflows, and innovative engineering challenges!
+- 🚀 Actively developing autonomous AI agents, agentic commerce platforms, and scalable developer tooling.
+
+---
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+  <a href="https://github.com/Prajeeth-12">
+    <img src="https://github-profile-trophy.vercel.app/?username=Prajeeth-12&theme=radical&no-frame=false&no-bg=true&margin_w=4" alt="Prajeeth's Trophies" />
+  </a>
+</div>
+
+---
+
+### 🚀 Featured Projects
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" valign="top">
+        <h3 align="center"><a href="https://github.com/Prajeeth-12/AgentPay">💳 AgentPay</a></h3>
+        <p align="center">
+          <b>India's First UAP-Compatible Agentic Commerce Platform</b><br/>
+          <i>Razorpay AI Buildathon 2026</i>
+        </p>
+        <p align="center">
+          Autonomous AI agent transaction protocols, multi-agent checkout execution, and verifiable authorization workflows.
+        </p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/AI_Agents-8A2BE2?style=flat-square" alt="AI Agents" />
+          <img src="https://img.shields.io/badge/Commerce-00C853?style=flat-square" alt="Commerce" />
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        </p>
+      </td>
+      <td width="50%" valign="top">
+        <h3 align="center"><a href="https://github.com/Prajeeth-12/agentic-awesome-skills">⚡ Agentic Awesome Skills</a></h3>
+        <p align="center">
+          <b>Local Agent Control Plane & Skill Catalog</b><br/>
+          <i>Agentic Skill Orchestrator</i>
+        </p>
+        <p align="center">
+          Agent-first control plane for catalog discovery, agent-owned selection, stack validation, and planning backed by 2,000+ skills.
+        </p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/MCP-FF6F00?style=flat-square" alt="MCP" />
+          <img src="https://img.shields.io/badge/Orchestration-007ACC?style=flat-square" alt="Orchestration" />
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
@@ -170,7 +221,34 @@ status: Exploring the limits of Artificial Intelligence & building scalable tech
         </a>
       </td>
     </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <a href="https://codeforces.com/profile/Prajeeth_12">
+          <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Prajeeth_12&theme=radical" alt="Codeforces Stats" width="400" />
+        </a>
+      </td>
+    </tr>
   </table>
+</div>
+
+---
+
+### 🐍 Contribution Activity
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Prajeeth-12/Prajeeth-12/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Prajeeth-12/Prajeeth-12/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Prajeeth-12/Prajeeth-12/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  </picture>
+</div>
+
+---
+
+### 💡 Daily Dev Inspiration
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
 </div>
 
 ---
