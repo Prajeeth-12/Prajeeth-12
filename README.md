@@ -69,7 +69,7 @@ status: Exploring the limits of Artificial Intelligence & building scalable tech
 
 <div align="center">
   <a href="https://github.com/Prajeeth-12">
-    <img src="https://github-profile-trophy.vercel.app/?username=Prajeeth-12&theme=radical&no-frame=false&no-bg=true&margin_w=4" alt="Prajeeth's Trophies" />
+    <img src="https://github-trophies.vercel.app/?username=Prajeeth-12&theme=radical&no-frame=false&no-bg=true&margin_w=4" alt="Prajeeth's Trophies" />
   </a>
 </div>
 
@@ -200,7 +200,7 @@ status: Exploring the limits of Artificial Intelligence & building scalable tech
     <tr>
       <td>
         <a href="https://github.com/Prajeeth-12">
-          <img src="https://github-readme-stats.vercel.app/api?username=Prajeeth-12&show_icons=true&theme=radical&hide_border=false&border_radius=10&rank_icon=github" alt="GitHub Stats" width="400" />
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prajeeth-12&theme=radical" alt="GitHub Profile Details" width="400" />
         </a>
       </td>
       <td>
@@ -212,7 +212,7 @@ status: Exploring the limits of Artificial Intelligence & building scalable tech
     <tr>
       <td>
         <a href="https://github.com/Prajeeth-12">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prajeeth-12&layout=compact&theme=radical&hide_border=false&border_radius=10" alt="Top Languages" width="400" />
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Prajeeth-12&theme=radical" alt="Repos per Language" width="400" />
         </a>
       </td>
       <td>
@@ -236,11 +236,7 @@ status: Exploring the limits of Artificial Intelligence & building scalable tech
 ### 🐍 Contribution Activity
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Prajeeth-12/Prajeeth-12/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Prajeeth-12/Prajeeth-12/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Prajeeth-12/Prajeeth-12/output/github-contribution-grid-snake-dark.svg" width="100%" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/Prajeeth-12/Prajeeth-12/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" />
 </div>
 
 ---
