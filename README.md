@@ -241,10 +241,14 @@ status: Exploring the limits of Artificial Intelligence & building scalable tech
 
 ---
 
-### 💡 Daily Dev Inspiration
+### 💡 Engineering & Dev Philosophy
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=3000&color=38BDF8&center=true&vCenter=true&width=750&height=70&lines=%22First%2C+solve+the+problem.+Then%2C+write+the+code.%22+%E2%80%94+John+Johnson;%22Talk+is+cheap.+Show+me+the+code.%22+%E2%80%94+Linus+Torvalds;%22The+best+way+to+predict+the+future+is+to+invent+it.%22+%E2%80%94+Alan+Kay;%22Good+programmers+write+code+that+humans+can+understand.%22+%E2%80%94+Martin+Fowler;%22Simplicity+is+prerequisite+for+reliability.%22+%E2%80%94+Edsger+W.+Dijkstra" alt="Inspirational Quotes" />
+
+  <br/>
+
+  > <i>"The only way to do great work is to love what you do."</i> — **Steve Jobs**
 </div>
 
 ---
